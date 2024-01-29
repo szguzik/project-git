@@ -1,1 +1,1 @@
-# dodano komentarz
+# dodano komentarz - dodajemy cos
